@@ -2,5 +2,5 @@
 public
 node_modules
 resources/_gen
-content/**/images/*[.jpg, .JPG, .jpeg, .Identifier]
-content/**/*[.Identifier]
+content/**/images
+content/**/*.Identifier
